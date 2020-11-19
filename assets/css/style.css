@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* this is the body backround color */
 body {
     background-color: #d9dcd6;
 }
-
+/* this is where the header styles start */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +40,16 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* this is styling for the top 3 header links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* paragrapgh styling */
 p {
     font-size: 16px;
 }
-
+/* main top image/backround */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* main content styling */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -119,7 +119,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
